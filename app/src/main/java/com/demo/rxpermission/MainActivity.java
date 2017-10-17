@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
-import com.demo.rxpermission_lib.RxPermissions;
+import com.nanyuweiyi.rxpermission_lib2.RxPermissions;
 
 import rx.functions.Action1;
 
@@ -22,8 +22,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.tvTel).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-//                requestPression();
-                callTel("10086");
+                requestPression();
             }
         });
 

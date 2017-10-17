@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rxpermission.iml" filepath="$PROJECT_DIR$/rxpermission.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rxpermission_lib/rxpermission_lib.iml" filepath="$PROJECT_DIR$/rxpermission_lib/rxpermission_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permission.iml" filepath="$PROJECT_DIR$/permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxpermission/rxpermission.iml" filepath="$PROJECT_DIR$/rxpermission/rxpermission.iml" />
     </modules>
   </component>
 </project>
