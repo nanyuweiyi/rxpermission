@@ -1,4 +1,4 @@
-package com.nanyuweiyi.rxpermission_lib2;
+package com.nanyuweiyi.rxpermission;
 
 import android.annotation.TargetApi;
 import android.app.Fragment;

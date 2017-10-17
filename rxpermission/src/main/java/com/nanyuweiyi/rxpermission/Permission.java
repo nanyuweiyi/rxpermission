@@ -1,4 +1,4 @@
-package com.nanyuweiyi.rxpermission_lib2;
+package com.nanyuweiyi.rxpermission;
 
 public class Permission {
     public final String name;

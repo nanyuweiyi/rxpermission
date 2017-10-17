@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
-import com.nanyuweiyi.rxpermission_lib2.RxPermissions;
+import com.nanyuweiyi.rxpermission.RxPermissions;
 
 import rx.functions.Action1;
 
