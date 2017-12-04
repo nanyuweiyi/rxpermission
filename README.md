@@ -1,4 +1,5 @@
 # 使用说明
+
 1、在project级build.gradle中添加： maven { url 'https://jitpack.io' }  
 
 2、在app级build.gradle中添加：compile 'com.github.nanyuweiyi:rxpermission:1.2' 
